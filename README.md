@@ -36,8 +36,8 @@ plotly
 Time-series data analysis
 Interactive visualization using Plotly
 Public health data exploration
-## 📊 Example Visualization
+## Example Visualization
 
-Below is an example visualization generated from the analysis.
+![Mortality Trend](Mortality 1.png)
 
-![Suicide Mortality Trend](visualization.png)
+![Mortality Trend 2](Mortality 2.png)
