@@ -31,13 +31,8 @@ Pandas
 Plotly
 Jupyter Notebook
 Libraries used:
-pandas
-plotly
-Time-series data analysis
-Interactive visualization using Plotly
-Public health data exploration
-## Example Visualization
-
-![Mortality Trend](Mortality 1.png)
-
-![Mortality Trend 2](Mortality 2.png)
+pandas,
+plotly,
+Time-series data analysis,
+Interactive visualization using Plotly,
+Public health data exploration.
