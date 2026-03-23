@@ -1,4 +1,5 @@
 * Singapore Suicide Mortality Analysis (2015–2024)
+  
 ** Project Overview
 This project explores suicide mortality trends in Singapore from 2015 to 2024 using publicly available government data. The goal is to analyze patterns across demographic subgroups and visualize trends using Python.
 The analysis includes data cleaning, transformation, and interactive visualization to better understand changes in suicide mortality rates over time.
